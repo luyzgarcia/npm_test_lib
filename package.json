@@ -1,5 +1,5 @@
 {
-  "name": "npm_test_lib",
+  "name": "@luyzgarcia/npm_test_lib",
   "version": "1.0.0",
   "description": "Test lib Continium",
   "main": "index.js",
